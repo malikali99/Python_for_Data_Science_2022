@@ -1,0 +1,6 @@
+print("Hello World")
+print("learn_python_with_Malik")
+print('test for single cote')
+print("test fot double cote")
+print('''test for triple cote''')
+print(" salam what's up  ? ")
